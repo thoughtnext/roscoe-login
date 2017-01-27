@@ -52,7 +52,7 @@
         return deferred.promise;
       },
       authorize: function(PSID, EMAIL, PASSWORD, FNAME, LNAME, GENDER) {
-        var baseUrl = 'https://f6d8ffc8.ngrok.io' 
+        var baseUrl = 'https://0dbfee9d.ngrok.io' 
         var deferred = $q.defer();
         // var options = {
         // method: 'GET',
