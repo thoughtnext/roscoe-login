@@ -52,7 +52,7 @@
         return deferred.promise;
       },
       authorize: function(PSID, EMAIL, PASSWORD, FNAME, LNAME, GENDER) {
-        var baseUrl = 'https://roscoe-account-linking.mybluemix.net/' 
+        var baseUrl = 'https://roscoe-account-linking.mybluemix.net' 
         var deferred = $q.defer();
         // var options = {
         // method: 'GET',
